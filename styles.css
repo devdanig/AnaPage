@@ -127,6 +127,10 @@ body {
     text-decoration: none;
 }
 
+.caile{
+    text-decoration: none;
+}
+
 .timelinetitle{
     text-decoration: none;
 }
@@ -145,7 +149,7 @@ body {
 
 .timeline-background {
     width: 60%;
-    height: 250%;
+    height: auto;
     background-color: #fff;
     border: 2px;
     border-radius: 10px;
