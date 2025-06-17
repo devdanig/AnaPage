@@ -49,7 +49,7 @@ Gracias, Ana, por ser inspiración constante. 🌟
 ## 🚀 ¿Cómo correrlo localmente?
 
 ```bash
-git clone 
+git clone https://github.com/devdanig/AnaPage.git
 cd ana
 npm install
 npm run dev
