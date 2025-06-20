@@ -17,6 +17,7 @@ Este no es solo un sitio web. Es una expresión digital de afecto, gratitud y ad
 Desarrollar una página web visualmente hermosa y emocionalmente significativa que refleje:
 
 - Quién es Ana y lo que representa en mi vida
+- Fotografias y un portafolio de todos nuestros viajes juntos
 - Momentos importantes compartidos
 - Sueños cumplidos gracias a ella
 - Un espacio que le diga: *“Estoy aquí porque tú estuviste primero”*
